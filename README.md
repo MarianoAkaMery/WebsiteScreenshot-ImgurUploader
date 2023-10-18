@@ -60,7 +60,7 @@ python screenshot_to_imgur.py
 To upload a local image to Imgur:
 
 ```bash
-python upload_image_to_imgur.py
+python file_to_imgur.py
 ```
 
 ## Configuration
